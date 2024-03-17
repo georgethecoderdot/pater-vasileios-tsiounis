@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pater-vasileios-tsiounis/static/css/main.fd1c26f2.css",
-    "main.js": "/pater-vasileios-tsiounis/static/js/main.618f2366.js",
+    "main.css": "/pater-vasileios-tsiounis/static/css/main.41f11587.css",
+    "main.js": "/pater-vasileios-tsiounis/static/js/main.a3a37ac8.js",
     "static/js/787.a8f76434.chunk.js": "/pater-vasileios-tsiounis/static/js/787.a8f76434.chunk.js",
     "static/media/mySecondFather.jpg": "/pater-vasileios-tsiounis/static/media/mySecondFather.54a0b63a1a8371d4e036.jpg",
     "index.html": "/pater-vasileios-tsiounis/index.html",
-    "main.fd1c26f2.css.map": "/pater-vasileios-tsiounis/static/css/main.fd1c26f2.css.map",
-    "main.618f2366.js.map": "/pater-vasileios-tsiounis/static/js/main.618f2366.js.map",
+    "main.41f11587.css.map": "/pater-vasileios-tsiounis/static/css/main.41f11587.css.map",
+    "main.a3a37ac8.js.map": "/pater-vasileios-tsiounis/static/js/main.a3a37ac8.js.map",
     "787.a8f76434.chunk.js.map": "/pater-vasileios-tsiounis/static/js/787.a8f76434.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd1c26f2.css",
-    "static/js/main.618f2366.js"
+    "static/css/main.41f11587.css",
+    "static/js/main.a3a37ac8.js"
   ]
 }
