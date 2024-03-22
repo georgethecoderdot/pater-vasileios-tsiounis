@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/pater-vasileios-tsiounis/static/css/main.7097bc8f.css",
-    "main.js": "/pater-vasileios-tsiounis/static/js/main.0482ab5f.js",
+    "main.css": "/pater-vasileios-tsiounis/static/css/main.be0535e1.css",
+    "main.js": "/pater-vasileios-tsiounis/static/js/main.ae67ce2e.js",
     "static/js/787.e50e536e.chunk.js": "/pater-vasileios-tsiounis/static/js/787.e50e536e.chunk.js",
     "static/media/book.png": "/pater-vasileios-tsiounis/static/media/book.6b27dda2ba81eccb8910.png",
+    "static/media/book_back.png": "/pater-vasileios-tsiounis/static/media/book_back.535b7e2751bc6e6dc84f.png",
     "static/media/pvasileios.png": "/pater-vasileios-tsiounis/static/media/pvasileios.aaf59dbb63d6946ac6a1.png",
     "static/media/agios_dimitrios.jpg": "/pater-vasileios-tsiounis/static/media/agios_dimitrios.9b7d92a2b646bf0b9dbb.jpg",
     "index.html": "/pater-vasileios-tsiounis/index.html",
-    "main.7097bc8f.css.map": "/pater-vasileios-tsiounis/static/css/main.7097bc8f.css.map",
-    "main.0482ab5f.js.map": "/pater-vasileios-tsiounis/static/js/main.0482ab5f.js.map",
+    "main.be0535e1.css.map": "/pater-vasileios-tsiounis/static/css/main.be0535e1.css.map",
+    "main.ae67ce2e.js.map": "/pater-vasileios-tsiounis/static/js/main.ae67ce2e.js.map",
     "787.e50e536e.chunk.js.map": "/pater-vasileios-tsiounis/static/js/787.e50e536e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7097bc8f.css",
-    "static/js/main.0482ab5f.js"
+    "static/css/main.be0535e1.css",
+    "static/js/main.ae67ce2e.js"
   ]
 }
