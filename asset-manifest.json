@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/pater-vasileios-tsiounis/static/css/main.8c571649.css",
-    "main.js": "/pater-vasileios-tsiounis/static/js/main.8c642c7e.js",
-    "static/js/787.e50e536e.chunk.js": "/pater-vasileios-tsiounis/static/js/787.e50e536e.chunk.js",
-    "static/media/book.png": "/pater-vasileios-tsiounis/static/media/book.6b27dda2ba81eccb8910.png",
-    "static/media/book_back.png": "/pater-vasileios-tsiounis/static/media/book_back.535b7e2751bc6e6dc84f.png",
-    "static/media/pvasileios.png": "/pater-vasileios-tsiounis/static/media/pvasileios.aaf59dbb63d6946ac6a1.png",
-    "static/media/orkomosia.png": "/pater-vasileios-tsiounis/static/media/orkomosia.49fd879a3d5bf4b260f4.png",
-    "static/media/agios_dimitrios.jpg": "/pater-vasileios-tsiounis/static/media/agios_dimitrios.9b7d92a2b646bf0b9dbb.jpg",
-    "index.html": "/pater-vasileios-tsiounis/index.html",
-    "main.8c571649.css.map": "/pater-vasileios-tsiounis/static/css/main.8c571649.css.map",
-    "main.8c642c7e.js.map": "/pater-vasileios-tsiounis/static/js/main.8c642c7e.js.map",
-    "787.e50e536e.chunk.js.map": "/pater-vasileios-tsiounis/static/js/787.e50e536e.chunk.js.map"
+    "main.css": "/static/css/main.8c571649.css",
+    "main.js": "/static/js/main.c8936de2.js",
+    "static/js/787.e50e536e.chunk.js": "/static/js/787.e50e536e.chunk.js",
+    "static/media/book.png": "/static/media/book.6b27dda2ba81eccb8910.png",
+    "static/media/book_back.png": "/static/media/book_back.535b7e2751bc6e6dc84f.png",
+    "static/media/pvasileios.png": "/static/media/pvasileios.aaf59dbb63d6946ac6a1.png",
+    "static/media/orkomosia.png": "/static/media/orkomosia.49fd879a3d5bf4b260f4.png",
+    "static/media/agios_dimitrios.jpg": "/static/media/agios_dimitrios.9b7d92a2b646bf0b9dbb.jpg",
+    "index.html": "/index.html",
+    "main.8c571649.css.map": "/static/css/main.8c571649.css.map",
+    "main.c8936de2.js.map": "/static/js/main.c8936de2.js.map",
+    "787.e50e536e.chunk.js.map": "/static/js/787.e50e536e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c571649.css",
-    "static/js/main.8c642c7e.js"
+    "static/js/main.c8936de2.js"
   ]
 }
