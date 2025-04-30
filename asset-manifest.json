@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.302f4021.css",
-    "main.js": "/static/js/main.23f6a466.js",
+    "main.js": "/static/js/main.82c1319f.js",
     "static/js/787.a8f76434.chunk.js": "/static/js/787.a8f76434.chunk.js",
     "static/media/book.png": "/static/media/book.6b27dda2ba81eccb8910.png",
     "static/media/book_back.png": "/static/media/book_back.535b7e2751bc6e6dc84f.png",
@@ -10,11 +10,11 @@
     "static/media/agios_dimitrios_m.jpg": "/static/media/agios_dimitrios_m.5c360006b3b0bcef9ae9.jpg",
     "index.html": "/index.html",
     "main.302f4021.css.map": "/static/css/main.302f4021.css.map",
-    "main.23f6a466.js.map": "/static/js/main.23f6a466.js.map",
+    "main.82c1319f.js.map": "/static/js/main.82c1319f.js.map",
     "787.a8f76434.chunk.js.map": "/static/js/787.a8f76434.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.302f4021.css",
-    "static/js/main.23f6a466.js"
+    "static/js/main.82c1319f.js"
   ]
 }
